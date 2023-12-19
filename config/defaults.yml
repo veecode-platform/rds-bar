@@ -1,0 +1,10 @@
+---
+identifier: "rds-database-bar"
+allocated_storage: 10
+engine: "postgres"
+engine_version: "14"
+instance_class: "db.t3.micro"
+instance_name: "rds-instance-bar"
+username: "brunoar7"
+password: "teste1234"
+skip_final_snapshot: false

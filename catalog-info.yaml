@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Database
+metadata:
+  name: 
+  annotations:
+    github.com/project-slug: veecode-platform/rds-bar
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: devops
+  lifecycle: experimental
+  owner: "group:default/admin"
